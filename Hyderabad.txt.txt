@@ -1,5 +1,3 @@
-<h2>Hyderabad code</h2>
-<h2>Banglore code</h2>
-<h3>banglore modified again</h3>
 
-<h1> Hyderabad modified with out inform </h1>
+<h1> Hyderabad modified with inform </h1>
+
